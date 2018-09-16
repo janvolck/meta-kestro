@@ -41,20 +41,15 @@ IMAGE_INSTALL += " \
 		file \
 		hdparm \
 		i2c-tools \
-		ifupdown-scripts \
 		iproute2 \
 		iptables \
 		kernel \
 		ldd \
 		ntimed \
-		openssh-keygen \
-		openssh-sftp-server \
 		ppp \
 		strace \
 		tcpdump \
-		udev-rules \
 		usbutils \
 		zip \
-		fwdev \
 		"
 
