@@ -40,7 +40,6 @@ IMAGE_INSTALL += " \
 		ethtool \
 		file \
 		hdparm \
-		hwinfo \
 		i2c-tools \
 		ifupdown-scripts \
 		iproute2 \
