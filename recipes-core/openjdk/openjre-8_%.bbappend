@@ -1,1 +1,0 @@
-RPROVIDES_${PN} = "virtual/java"
